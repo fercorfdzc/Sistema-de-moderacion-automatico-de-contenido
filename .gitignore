@@ -1,0 +1,4 @@
+api/modelo_moderador.pt
+__pycache__/
+.ipynb_checkpoints/
+*.pt

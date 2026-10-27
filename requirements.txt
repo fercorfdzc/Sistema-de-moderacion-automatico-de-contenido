@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+torch
+transformers
+httpx
+twitchio
+pandas
+scikit-learn
+jupyter
+numpy
+matplotlib
+seaborn
